@@ -1,5 +1,7 @@
 # How to create a simple registration form with PHP, HTML, CSS, JavaScript and sql Database
-![image](https://github.com/ARIBFIB/PHP-MySql-Registration_Page_website_html_DESIGN_01/assets/125716994/c5b81b9b-7406-42be-96d0-d608b2c6c675)# PHP-MySql-Registration_Page_website_html_DESIGN_01
+
+
+# PHP-MySql-Registration_Page_website_html_DESIGN_01
 
 ![image](https://github.com/ARIBFIB/PHP-MySql-Registration_Page_website_html_DESIGN_01/assets/125716994/cc710768-c3ba-43c0-8597-b57804aa161f)
 
